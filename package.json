@@ -7,11 +7,15 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "puppeteer"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.6",
+    "cucumber": "^6.0.7",
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
     "puppeteer": "^13.6.0"
   }
 }
