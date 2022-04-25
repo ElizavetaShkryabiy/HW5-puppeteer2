@@ -1,0 +1,17 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-puppeteer.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "puppeteer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}
