@@ -1,7 +1,7 @@
 module.exports = {
     launch: {
         headless: false,
-        defaultViewport: null,        
+        defaultViewport: null,            
         args: ['--start-maximized'] //— используем максимальный размер окна браузера
       },
     
